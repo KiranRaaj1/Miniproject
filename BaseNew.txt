@@ -112,7 +112,7 @@ public class BaseClass {
 
 	}
 
-	// 9.Alert
+	// 9.Alert2
 
 	public static void alertAccept() {
 
